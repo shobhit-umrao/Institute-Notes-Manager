@@ -1,0 +1,10 @@
+﻿Login details for Shobhit · Notes
+
+
+Admin Login ---->
+
+username: Shobhit
+password 123456789
+
+
+Rest all the usernames you would get from the admin tab and the passwords are same as above.
